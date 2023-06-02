@@ -1,0 +1,141 @@
+/***work responsive  ***/
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 570px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 560px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 540px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 520px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 460px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 440px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 420px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 400px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 340px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
